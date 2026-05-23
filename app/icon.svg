@@ -1,0 +1,10 @@
+<svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <rect width="64" height="64" rx="14" fill="#1F6B3A"/>
+  <!-- socket cap -->
+  <path d="M26 14 L26 21 Q26 23 28 23 L36 23 Q38 23 38 21 L38 14 Z" fill="#1A1A1A"/>
+  <rect x="27.5" y="11" width="9" height="3" rx="1" fill="#1A1A1A"/>
+  <!-- bulb body -->
+  <path d="M22 28 Q22 22 28 22 L36 22 Q42 22 42 28 L42 38 Q42 50 32 53 Q22 50 22 38 Z" fill="#C8102E"/>
+  <!-- highlight -->
+  <ellipse cx="28" cy="30" rx="2.5" ry="6" fill="#FFFFFF" opacity="0.35"/>
+</svg>
